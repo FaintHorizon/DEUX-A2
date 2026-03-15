@@ -34,6 +34,16 @@ If the user still cannot find what they want to watch or they are trying to find
 <img src=".\Images\SearchPageFramework.png" alt="Search" >
 As with the carousel and the main page all media thumbnails displayed here will have the title displayed bellow them to assist thouse with visual imparements making a high contrast easy to read title.
 
+As for colour scheme we have gone for a darker scheme by defualt as that helps with more light controled enviroments for flashing the user as they head back to the menu but we will most likely have a light mode availble if a user wants it.  in the dark scheme our contrast varys from an 19.02:1 ratio and a 21:1 ratio due to the background gradient in the dark scheme both of the values pass AAA WCAG guidelines. (W3C, 2025) You can see the results bellow thanks to (WebAIM, 2025).
+
+<img src=".\Images\WhiteOnBlack.png" alt="Contrast 1" >
+<img src=".\Images\WhiteOnRed.png" alt="Contrast 2" >
+
+For the light mode we could invert most of these colours but for most users that may apear a little bright
+<img src=".\Images\BadFormLight.png" alt="Bad Form Light" >
+As an example for what the lightmode could look light
+of course black text on white will have the same contrast as white on black of 21:1 but the bright red on white has a contrast of 5.88:1 Which still aligns with AA rating but loses its tripple for normal sized text.
+<img src=".\Images\RedOnWhite.png" alt="Contrast 3" >
 # References
 
 # Credits
