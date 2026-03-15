@@ -1,5 +1,11 @@
 # DEUX-A2
 
+# Design
+
+# Development
+
+# Testing
+
 # User Stories
 
 # Framework
