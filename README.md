@@ -8,11 +8,11 @@
 
 # User Stories
 ## Profile One:
-
+<img src=".\Images\Profile1.png" alt="Profile One" >
 ## Profile Two:
-
+<img src=".\Images\Profile2.png" alt="Profile Two" >
 ## Profile Three
-
+<img src=".\Images\Profile3.png" alt="Profile Three" >
 ## Design Choices Bassed on Profiles
 **Profile One** --> Large High Contrast Text + Dark Mode <br>
 **Profile Two** --> Continue Watching Carousel + My List for favouriting shows <br>
