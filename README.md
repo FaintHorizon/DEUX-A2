@@ -6,8 +6,8 @@
 
 # Testing
 
-# User Stories
-
+# User Stories <br>
+User Profile Picutres courtesy of (OpenAI, 2025)<br>
 ## Profile One:
 
 <img src=".\Images\Profile1.png" alt="Profile One" >
