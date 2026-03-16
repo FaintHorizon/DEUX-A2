@@ -7,7 +7,17 @@
 # Testing
 
 # User Stories
+## Profile One:
 
+## Profile Two:
+
+## Profile Three
+
+## Design Choices Bassed on Profiles
+**Profile One** --> Large High Contrast Text + Dark Mode <br>
+**Profile Two** --> Continue Watching Carousel + My List for favouriting shows <br>
+**Profile Three** --> Showcase Highlights + Recomendations for binge watching + Autostop <br>
+<br>
 # Framework
 A few things are a constant between all frameworks. One the text is high contrast, two while not present on the form it will be present on the actual site and the other frameworks is all fonts are derived from the Sans family and monobloked for dyslexia friendliness. (Lys Forstner, 2023) This article covers how to desigin news sites to be dyslexia friendly. Along with (W3C, 2025) these are gonna be My main sources for accessiblity and readability.
 <img src=".\Images\DEUXFormFramework.png" alt="Signup Form" >
