@@ -26,7 +26,7 @@ User Profile Picutres courtesy of (OpenAI, 2025)<br>
 **Profile Three** --> Showcase Highlights + Recomendations for binge watching + Autostop <br>
 <br>
 # Framework
-A few things are a constant between all frameworks. One the text is high contrast, two while not present on the form it will be present on the actual site and the other frameworks is all fonts are derived from the Sans family and monobloked for dyslexia friendliness. (Lys Forstner, 2023) This article covers how to desigin news sites to be dyslexia friendly. Along with (W3C, 2025) these are gonna be My main sources for accessiblity and readability.
+A few things are a constant between all frameworks. One the text is high contrast, two while not present on the form it will be present on the actual site and the other frameworks is all fonts are derived from the Sans family and monoblocked for dyslexia friendliness. (Lys Forstner, 2023) This article covers how to desigin news sites to be dyslexia friendly. Along with (W3C, 2025) these are gonna be My main sources for accessiblity and readability.
 <img src=".\Images\DEUXFormFramework.png" alt="Signup Form" >
 The form has each box contrasted from the background with and example of what text to supply, when text does not meet the requirements the form should prompt an error messege bellow the box to tell the user what they did incorrectly. An example of which is bellow.
 <img src=".\Images\BadForm.png" alt="Bad Form" >
