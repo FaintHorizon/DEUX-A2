@@ -46,7 +46,7 @@ If the player detects inactivity, no volume change, no pausing etc after a set a
 This screen will allow the user to continue without interuption, continue while just reseting the inactivity timer, or backout the the main page.
 
 On the main page if the user where to scroll down they will end up with the media carousel. This is where we reckon most users will be browsing it will suggest different catagories orderd by what an algorithm determins the user mostlikely to want to watch bassed on their previous watch history. They will be able to flick through a set amount of films in each catagory again the ones we promote to the user.
-<img src=".\Images\carousel.png" alt="Carousel" >
+<img src=".\Images\Carousel.png" alt="Carousel" >
 If the user still cannot find what they want to watch or they are trying to find something specific they can turn to the search bar. This will have a Fuzzy search implemented allowing for people to be able to find content if they are not 100% on the spelling. They will also be able to search by cast and catagory.
 <img src=".\Images\SearchPageFramework.png" alt="Search" >
 As with the carousel and the main page all media thumbnails displayed here will have the title displayed bellow them to assist thouse with visual imparements making a high contrast easy to read title.
