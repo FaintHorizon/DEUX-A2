@@ -1,0 +1,12 @@
+div {
+ background-color: rgb(141, 140, 207);
+ margin: 100px;
+ align-content: center;
+ border: rgba(139, 0, 139, 0.479);
+ border-radius: 10px;
+ border-style: dotted;
+ font-family: sans-serif; 
+ font-size:55px; 
+ text-align: center;
+ 
+}
