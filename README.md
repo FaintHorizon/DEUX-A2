@@ -61,6 +61,7 @@ For the light mode we could invert most of these colours but for most users that
 As an example for what the lightmode could look light
 of course black text on white will have the same contrast as white on black of 21:1 but the bright red on white has a contrast of 5.88:1 Which still aligns with AA rating but loses its tripple for normal sized text.
 <img src=".\Images\RedOnWhite.png" alt="Contrast 3" >
+
 # References
 
 # Credits
