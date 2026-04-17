@@ -1,4 +1,5 @@
 # DEUX-A2
+# Table of Contents
 
 # Design
 
@@ -61,6 +62,13 @@ For the light mode we could invert most of these colours but for most users that
 As an example for what the lightmode could look light
 of course black text on white will have the same contrast as white on black of 21:1 but the bright red on white has a contrast of 5.88:1 Which still aligns with AA rating but loses its tripple for normal sized text.
 <img src=".\Images\RedOnWhite.png" alt="Contrast 3" >
+
+
+So the three wireframes I will be chosing to do for this project are the Signup form, Main Page and the video player.
+
+The form was kept the same as the previous project
+However I changed the Main page to be better suited to a streaming site as the content is clearer and easier to navigate.
+I also added a media player as that is needed for the accessibility settings 
 
 # References
 
