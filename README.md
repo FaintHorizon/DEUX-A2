@@ -1,6 +1,14 @@
 # DEUX-A2
 # Table of Contents
-
+[Design](#design)</br>
+[Development](#designevelopment)</br>
+[Testing](#testing)</br>
+[User Stories](#user-stories)</br>
+    [Profile One](##profile-one)</br>
+    [Profile Two](##profile-two)</br>
+    [Profile Three](##profile-three)</br>
+[Frameworks](#framework)</br>
+[Reference](#references)</br>
 # Design
 
 # Development
@@ -74,3 +82,4 @@ I also added a media player as that is needed for the accessibility settings
 
 # Credits
 Frameworks made with Affinity Photo and Designer
+Alot of code w3Schools for bootstrap, HTML, CSS support
