@@ -1,15 +1,47 @@
 # DEUX-A2
 # Table of Contents
 [Design](#design)</br>
+----[Aims and Objectives](#aims-and-objectives)</br>
+----[User Design](#user-design)</br>
+----[Wireframe Adjustments](#wireframe-adjustments)</br>
 [Development](#designevelopment)</br>
 [Testing](#testing)</br>
 [User Stories](#user-stories)</br>
-    [Profile One](##profile-one)</br>
-    [Profile Two](##profile-two)</br>
-    [Profile Three](##profile-three)</br>
+----[Profile One](#profile-one)</br>
+----[Profile Two](#profile-two)</br>
+----[Profile Three](#profile-three)</br>
 [Frameworks](#framework)</br>
 [Reference](#references)</br>
 # Design
+## Aims and objectives
+The primary aim of the site was a highly accesible and usable online streaming service. Delivering information cleanly and with high contrast and customisatoion
+- The site had to be reponsive
+- The layout and theme had to be consitant
+- Accessibility options had to be taken into account.
+- It had to load at a somewhat ok pace
+## User Design
+**Profile One** --> Large High Contrast Text + Dark Mode + Subtitles<br>
+**Profile Two** --> Continue Watching Carousel + My List for favouriting shows <br>
+**Profile Three** --> Showcase Highlights + Recomendations for binge watching + Autostop <br>
+
+## Wireframe adjustments
+The wireframes I initialy developed inflated the scope of the project drasticaly and impracticaly given the time scale so I am goint to only do three of the ones shown bellow .<br>
+
+### Wireframe One 
+The first page you load onto is the signup page this is what i am using as my form it has a nice dark mode, high contrast text and examples of what you need to input for each box.
+
+###  Wireframe Two
+
+The second page you hit after the signup page is the main page where all your media is.</br>
+- This has a high contrast navigation bar up top.</br>
+- A clearly displayed showcase piece
+- And a continue watching section
+
+Come full deployment this would be expanded to be a much longer scroll with suggested cataories following the same design principle of the continue watching.
+
+### Wireframe Three
+
+The final wireframe is the attempt at the video player. On the framework the playback bar, subtitle options and back button are all high contrast and stand out nicely.
 
 # Development
 
@@ -29,12 +61,11 @@ User Profile Picutres courtesy of (OpenAI, 2025)<br>
 
 <img src=".\Images\Profile3.png" alt="Profile Three" >
 
-## Design Choices Bassed on Profiles <br>
-**Profile One** --> Large High Contrast Text + Dark Mode <br>
-**Profile Two** --> Continue Watching Carousel + My List for favouriting shows <br>
-**Profile Three** --> Showcase Highlights + Recomendations for binge watching + Autostop <br>
+
 <br>
+
 # Framework
+
 A few things are a constant between all frameworks. One the text is high contrast, two while not present on the form it will be present on the actual site and the other frameworks is all fonts are derived from the Sans family and monoblocked for dyslexia friendliness. (Lys Forstner, 2023) This article covers how to desigin news sites to be dyslexia friendly. Along with (W3C, 2025) these are gonna be My main sources for accessiblity and readability.
 <img src=".\Images\DEUXFormFramework.png" alt="Signup Form" >
 The form has each box contrasted from the background with and example of what text to supply, when text does not meet the requirements the form should prompt an error messege bellow the box to tell the user what they did incorrectly. An example of which is bellow.
@@ -70,13 +101,6 @@ For the light mode we could invert most of these colours but for most users that
 As an example for what the lightmode could look light
 of course black text on white will have the same contrast as white on black of 21:1 but the bright red on white has a contrast of 5.88:1 Which still aligns with AA rating but loses its tripple for normal sized text.
 <img src=".\Images\RedOnWhite.png" alt="Contrast 3" >
-
-
-So the three wireframes I will be chosing to do for this project are the Signup form, Main Page and the video player.
-
-The form was kept the same as the previous project
-However I changed the Main page to be better suited to a streaming site as the content is clearer and easier to navigate.
-I also added a media player as that is needed for the accessibility settings 
 
 # References
 
