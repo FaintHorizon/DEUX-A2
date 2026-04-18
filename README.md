@@ -41,9 +41,43 @@ Come full deployment this would be expanded to be a much longer scroll with sugg
 
 ### Wireframe Three
 
-The final wireframe is the attempt at the video player. On the framework the playback bar, subtitle options and back button are all high contrast and stand out nicely.
+The final wireframe is the attempt at the video player. On the framework the </br>
+- Subtitles
+- Playback bar
+- Backbutton
+- Media Title
+
+Are all high contrast and stand out nicely.
 
 # Development
+## Website Screenshots
+Signup
+<img src=".\Images\websiteSignup.png" alt="Website Signup"><br>
+<br>
+Main Page
+<img src=".\Images\websiteMainpage.png" alt="Website Main Page"><br>
+<br>
+Media Player
+<img src=".\Images\websiteVideoplayer.png" alt="Website Media Player"><br>
+<br>
+
+## Development Reflection
+
+Pages Deployment: https://fainthorizon.github.io/DEUX-A2/<br>
+<br>
+
+Using Bootstrap, W3Schools and a bit of ChatGPT to help teach techniques a few issues for teh development quickly arose.
+
+- With no backend a few things where off the table for development like;
+    - Due to no backend continue watching was of the table
+    - Without the backend and a extensive media collection things like recomended films/tvshows would be near imposible to do
+- The final issue is the subtitles in the media player while i explored approches such as using Youtubes API but I didnt want to have to rely on an external service for a media player. In full development a more indepth media player will have to be built that would hook into a backend subtitle database for the different media. Then the more extensive customisation options can be built ontop of that.
+
+Unfortunatly thouse issues hit most of the user requirements.
+
+With Bootstraps reactive web design the challange 
+
+
 
 # Testing
 
