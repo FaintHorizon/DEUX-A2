@@ -1,43 +1,63 @@
 body {
-     font-family: Arial, sans-serif;
-     margin: 0;
-     padding: 0;
-     background-color: #f4f4f4;
- }
+    background: linear-gradient(to bottom, #2b0000, #000000);
+    color: #ffffff;
+    min-height: 100vh;
+}
 
- header {
-     background-color: #bb73a9;
-     color: white;
-     padding: 1rem;
-     text-align: center;
- }
+.top-logo {
+    max-height: 55px;
+    width: auto;
+}
 
- main {
-     padding: 1rem;
- }
+.showcase-box {
+    background-color: #111111;
+}
 
- section {
-     margin-bottom: 1rem;
- }
+.showcase-image {
+    width: 100%;
+    height: auto;
+}
 
- h2 {
-     color: #333;
- }
+.media-card {
+    background-color: #111111;
+    border: none;
+}
 
- ul {
-     list-style-type: square;
- }
+.media-card .card-body {
+    padding: 0.75rem;
+}
 
- footer {
-     background-color: #333;
-     color: white;
-     text-align: center;
-     padding: 1rem;
-     position: fixed;
-     width: 100%;
-     bottom: 0;
- }
+.media-card .card-text {
+    color: #ffffff;
+    margin: 0;
+    font-size: 0.95rem;
+}
 
- a {
-     color: #ff6347;
- }
+.media-card img {
+    height: 180px;
+    object-fit: cover;
+}
+
+.navbar .form-control {
+    background-color: #222;
+    color: #fff;
+    border: none;
+}
+
+.navbar .form-control::placeholder {
+    color: #aaa;
+}
+
+.user-icon {
+    max-height: 35px;
+    width: auto;
+    cursor: pointer;
+}
+
+.backBtn {
+    z-index: 10;
+}
+
+.mediaTitle {
+    z-index: 10;
+}

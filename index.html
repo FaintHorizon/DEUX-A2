@@ -1,47 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Personal Webpage</title>
-    <link rel="stylesheet" href=".\style\main.css">
+    <title>HorizonWave - Sign Up</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="./style/index.css">
 </head>
 
-<div class="container-fluid p-5 bg-primary text-white text-center">
-  <h1>Horizon Wave</h1>
+<body class="bg-dark text-white">
+
+<div class="container d-flex align-items-center justify-content-center min-vh-100">
+
+    <div class="row w-100 justify-content-center">
+
+        <div class="col-lg-6 col-md-8 form-container p-4">
+
+            <!-- HEADER -->
+            <div class="d-flex justify-content-between align-items-center mb-4">
+
+                <!-- Logo -->
+                <a href="index.html" class="d-flex align-items-center text-decoration-none">
+                    <img src="./Images/logo.png" 
+                        alt="HorizonWave logo" 
+                        class="logo img-fluid">
+                </a>
+
+                <!-- Plan Info -->
+                <div class="text-end ms-3" >
+                    <p class="mb-0 small-text">Selected Plan:</p>
+                    <h5 class="mb-0">30 Day Free Trial</h5>
+                </div>
+
+            </div>
+
+            <!-- FORM -->
+            <form action="mainpage.html">
+
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name:</label>
+                    <input type="text" id="name" class="form-control" placeholder="First Name Last Name" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email:</label>
+                    <input type="email" id="email" class="form-control" placeholder="Example@company.com" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password:</label>
+                    <input type="password" id="password" class="form-control" placeholder="Enter Password Here" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="confirm-password" class="form-label">Confirm Password:</label>
+                    <input type="password" id="confirm-password" class="form-control" placeholder="Confirm Password Here" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="card-name" class="form-label">Name on Card:</label>
+                    <input type="text" id="card-name" class="form-control" placeholder="Name on your card">
+                </div>
+
+                <div class="mb-3">
+                    <label for="card-number" class="form-label">Card Number:</label>
+                    <input type="text" id="card-number" class="form-control" placeholder="0000 0000 0000 0000">
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="expiry" class="form-label">Expiry Date:</label>
+                        <input type="text" id="expiry" class="form-control" placeholder="MM/YY">
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label for="cvv" class="form-label">CVV:</label>
+                        <input type="text" id="cvv" class="form-control" placeholder="000">
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <label for="postcode" class="form-label">Post Code:</label>
+                    <input type="text" id="postcode" class="form-control" placeholder="SW1A 1AA">
+                </div>
+
+                <!-- CHECKBOXES -->
+                <div class="form-check mb-2">
+                    <input class="form-check-input" type="checkbox" id="terms" required>
+                    <label class="form-check-label small-text" for="terms">
+                        I agree to HorizonWave terms and services
+                    </label>
+                </div>
+
+                <div class="form-check mb-3">
+                    <input class="form-check-input" type="checkbox" id="marketing">
+                    <label class="form-check-label small-text" for="marketing">
+                        Receive marketing emails
+                    </label>
+                </div>
+
+                <!-- SUBMIT -->
+                <button type="submit" class="btn btn-danger w-100">
+                    Start Free Trial
+                </button>
+
+            </form>
+
+        </div>
+
+    </div>
 </div>
 
-<div class="container mt-5">
-  <div class="row">
-    <div class="col-sm-4">
-      <h3></h3>
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
-    </div>
-    <div class="col-sm-4">
-      <h3>Signup</h3>
-        <form action="/action_page.php">
-            <div class="mb-3 mt-3">
-                <label for="email" class="form-label">Email:</label>
-                <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
-            </div>
-            <div class="mb-3">
-                <label for="pwd" class="form-label">Password:</label>
-                <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
-            </div>
-            <div class="form-check mb-3">
-                <label class="form-check-label">
-                <input class="form-check-input" type="checkbox" name="remember"> Do you agree to Horizon Wave terms and conditions.
-                </label>
-            </div>
-            <div class="form-check mb-3">
-                <label class="form-check-label">
-                <input class="form-check-input" type="checkbox" name="remember"> Do you wish to recive marketing and promotional materials from Horizon Wave.
-                </label>
-            </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
-    </div>
-    <div class="col-sm-4">
-      <h3></h3>
-
-    </div>
-  </div>
-</div>
+</body>
+</html>

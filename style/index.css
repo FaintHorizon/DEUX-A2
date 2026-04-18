@@ -1,0 +1,45 @@
+/* Background override (optional if not using Bootstrap bg-dark) */
+body {
+    background: linear-gradient(to bottom, #2b0000, #000000);
+    min-height: 100vh;
+}
+
+/* Form container */
+.form-container {
+    background-color: #000;
+    border-radius: 10px;
+}
+
+/* Logo styling */
+.logo {
+    max-width: 60px;
+    height: auto;
+}
+
+/* Smaller helper text */
+.small-text {
+    font-size: 0.85rem;
+    color: #ccc;
+}
+
+/* Input styling override */
+.form-control {
+    background-color: #333;
+    color: #fff;
+    border: none;
+}
+
+.form-control::placeholder {
+    color: #aaa;
+}
+
+.form-control:focus {
+    background-color: #444;
+    color: #fff;
+}
+
+/* Improve checkbox readability */
+.form-check-input {
+    background-color: #222;
+    border: 1px solid #555;
+}
