@@ -5,6 +5,8 @@
 ----[User Design](#user-design)</br>
 ----[Wireframe Adjustments](#wireframe-adjustments)</br>
 [Development](#designevelopment)</br>
+----[Development Screenshots](#website-screenshots)<br>
+----[Development Reflections and Design Challanges](#development-reflection-and-design-challenges)<br>
 [Testing](#testing)</br>
 [User Stories](#user-stories)</br>
 ----[Profile One](#profile-one)</br>
@@ -51,22 +53,31 @@ Are all high contrast and stand out nicely.
 
 # Development
 ## Website Screenshots
-Signup
+###  Signup
 <img src=".\Images\websiteSignup.png" alt="Website Signup"><br>
 <br>
-Main Page
+
+### Main Page
 <img src=".\Images\websiteMainpage.png" alt="Website Main Page"><br>
 <br>
-Media Player
+
+### Media Player
 <img src=".\Images\websiteVideoplayer.png" alt="Website Media Player"><br>
 <br>
 
-## Development Reflection
+## Development Reflection And Design Challenges
 
 Pages Deployment: https://fainthorizon.github.io/DEUX-A2/<br>
 <br>
 
 Using Bootstrap, W3Schools and a bit of ChatGPT to help teach techniques a few issues for teh development quickly arose.
+Other Tools used include:
+- Affinity Photo for Wireframes and images
+- Davinchi Resolve for video editing
+- Bambu Studio for the 3d print timelapes
+- Visual Studio for coding
+- Github for version control and syncing
+- Github Pages for deployment
 
 - With no backend a few things where off the table for development like;
     - Due to no backend continue watching was of the table
@@ -75,11 +86,52 @@ Using Bootstrap, W3Schools and a bit of ChatGPT to help teach techniques a few i
 
 Unfortunatly thouse issues hit most of the user requirements.
 
-With Bootstraps reactive web design the challange 
+With Bootstraps reactive web design the challange of having the site auto format to a device became a lot easier just had to be cautious about some images giving them a max hight/width to make sure they dont overwhelm the UI
 
 
 
 # Testing
+## Google Lighthouse
+### Signup Page
+<img src=".\Images\lighthouseSignup.png" alt="Lighthouse Signup Summary"><br>
+With  the simplicity of the Sign up page it scored well on Lighthouse with its main points lost as i used uncompressed high quallity images for parts like the logo
+
+
+### Main Page
+<img src=".\Images\lighthouseMain.png" alt="Lighthouse Main Summary"><br>
+It loses points for accessibility as I didnt give alt names to the buttons
+Points in search engine as I didnt describe where the links went
+And performance as again I have lots of high quallity images
+
+### Media Page
+<img src=".\Images\lighthouseMedia.png" alt="Lighthouse Media Summary"><br>
+Due to simplicity media agains scores very highly as there is very little going on the actual page
+
+### Construction Page
+<img src=".\Images\lighthouseTBB.png" alt="Lighthouse Construction Page"><br>
+Due to simplicity media agains scores very highly as there is very little going on the actual page
+## My Testing
+
+Clicking through all the buttons seemed to lead to the correct places for stuff that was not included in development it lead to a construction page, the form lead to the main page, the back button from media lead to main and the HTML video player works.
+
+Images loading correctly and in deacent time 
+
+The website is responsive to differnet aspect ratios and resolutions through chromes inspect feature
+
+The Main remaining issues where discused in development some due to lack of a backend and then subtitles.
+
+## W3 HTML and CSS validation
+### HTML
+<img src=".\Images\W3HTMLVal1.png" alt="W3 HTML Validation"><br>
+<img src=".\Images\W3HTMLVal2.png" alt="W3 HTML Validation"><br>
+<img src=".\Images\W3HTMLVal3.png" alt="W3 HTML Validation"><br>
+<img src=".\Images\W3HTMLVal4.png" alt="W3 HTML Validation"><br>
+
+### CSS
+<img src=".\Images\W3CSSVal.png" alt="W3 CSS Validation"><br>
+
+A lot of errors where picked up during CSS validation but from what i can tell looking through the full report they seem to all be related to bootstrap
+
 
 # User Stories <br>
 User Profile Picutres courtesy of (OpenAI, 2025)<br>
