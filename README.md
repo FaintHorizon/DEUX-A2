@@ -8,6 +8,9 @@
 ----[Development Screenshots](#website-screenshots)<br>
 ----[Development Reflections and Design Challanges](#development-reflection-and-design-challenges)<br>
 [Testing](#testing)</br>
+----[Lighthouse](#google-lighthouse)
+----[Manual](#my-testing)
+----[W3CAG](#w3-html-and-css-validation)
 [User Stories](#user-stories)</br>
 ----[Profile One](#profile-one)</br>
 ----[Profile Two](#profile-two)</br>
