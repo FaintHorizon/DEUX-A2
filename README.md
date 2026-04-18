@@ -65,6 +65,10 @@ Are all high contrast and stand out nicely.
 <img src=".\Images\websiteVideoplayer.png" alt="Website Media Player"><br>
 <br>
 
+### Media Player
+<img src=".\Images\websiteTBB.png" alt="Website Under Construction"><br>
+<br>
+
 ## Development Reflection And Design Challenges
 
 Pages Deployment: https://fainthorizon.github.io/DEUX-A2/<br>
@@ -110,6 +114,7 @@ Due to simplicity media agains scores very highly as there is very little going 
 ### Construction Page
 <img src=".\Images\lighthouseTBB.png" alt="Lighthouse Construction Page"><br>
 Due to simplicity media agains scores very highly as there is very little going on the actual page
+
 ## My Testing
 
 Clicking through all the buttons seemed to lead to the correct places for stuff that was not included in development it lead to a construction page, the form lead to the main page, the back button from media lead to main and the HTML video player works.
@@ -119,6 +124,9 @@ Images loading correctly and in deacent time
 The website is responsive to differnet aspect ratios and resolutions through chromes inspect feature
 
 The Main remaining issues where discused in development some due to lack of a backend and then subtitles.
+
+Userstories that where implemented where A dark mode, high contrast
+Dark mode is present throughout the theme and the contrast check is availble near the bottom of the framework section getting scores of 21:1 and 19.02:1 both in the WCAG AAA catagories for contrast
 
 ## W3 HTML and CSS validation
 ### HTML
