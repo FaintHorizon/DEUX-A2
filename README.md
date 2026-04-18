@@ -89,7 +89,7 @@ Other Tools used include:
 - With no backend a few things where off the table for development like;
     - Due to no backend continue watching was of the table
     - Without the backend and a extensive media collection things like recomended films/tvshows would be near imposible to do
-- The final issue is the subtitles in the media player while i explored approches such as using Youtubes API but I didnt want to have to rely on an external service for a media player. In full development a more indepth media player will have to be built that would hook into a backend subtitle database for the different media. Then the more extensive customisation options can be built ontop of that.
+- A key limitation was the implementation of subtitles within the media player. I investigated potential approaches, including the YouTube Player API, however I decided against this option as it would introduce dependency on an external service and reduce control over playback functionality. As a result, subtitles were not implemented in the final build. In a full-scale development environment, this feature would be supported through a dedicated backend subtitle database integrated with a custom media player, enabling more advanced accessibility and customisation options.
 
 Unfortunatly thouse issues hit most of the user requirements.
 
