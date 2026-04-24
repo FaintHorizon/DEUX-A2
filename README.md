@@ -35,7 +35,7 @@ The primary aim of the site was a highly accesible and usable online streaming s
 **Profile Three** --> Showcase Highlights + Recomendations for binge watching + Autostop <br>
 
 ## Wireframe adjustments
-The wireframes I initialy developed inflated the scope of the project drasticaly and impracticaly given the time scale so I am goint to only do three of the ones shown bellow .<br>
+The wireframes I initialy developed inflated the scope of the project drasticaly and impracticaly given the time scale so I am going to only do three of the ones shown bellow .<br>
 
 ### Wireframe One 
 The first page you load onto is the signup page this is what i am using as my form it has a nice dark mode, high contrast text and examples of what you need to input for each box.
