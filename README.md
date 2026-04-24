@@ -93,14 +93,14 @@ Other Tools used include:
 - Github Pages for deployment
 <br>
 <br>
-With no backend a few things where off the table for development like;
-    - Due to no backend continue watching was of the table
-    - Without the backend and a extensive media collection things like recomended films/tvshows would be near imposible to do
-- A key limitation was the implementation of subtitles within the media player. I investigated potential approaches, including the YouTube Player API, however I decided against this option as it would introduce dependency on an external service and reduce control over playback functionality. As a result, subtitles were not implemented in the final build. In a full-scale development environment, this feature would be supported through a dedicated backend subtitle database integrated with a custom media player, enabling more advanced accessibility and customisation options.
+With no backend a few things where off the table for development like;</br>
+    - Due to no backend continue watching was of the table</br>
+    - Without the backend and a extensive media collection things like recomended films/tvshows would be near imposible to do</br>
+- A key limitation was the implementation of subtitles within the media player. I investigated potential approaches, including the YouTube Player API, however I decided against this option as it would introduce dependency on an external service and reduce control over playback functionality. As a result, subtitles were not implemented in the final build. In a full-scale development environment, this feature would be supported through a dedicated backend subtitle database integrated with a custom media player, enabling more advanced accessibility and customisation options.</br>
 
-Unfortunatly thouse issues hit most of the user requirements.
+Unfortunatly thouse issues hit most of the user requirements.</br>
 
-With Bootstraps reactive web design the challange of having the site auto format to a device became a lot easier just had to be cautious about some images giving them a max hight/width to make sure they dont overwhelm the UI
+With Bootstraps reactive web design the challange of having the site auto format to a device became a lot easier just had to be cautious about some images giving them a max hight/width to make sure they dont overwhelm the UI</br>
 
 
 
