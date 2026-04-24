@@ -74,7 +74,7 @@ Are all high contrast and stand out nicely.
 
 ## Development Reflection And Design Challenges
 
-Pages Deployment: https://fainthorizon.github.io/DEUX-A2/<br>
+### Pages Deployment: https://fainthorizon.github.io/DEUX-A2/<br>
 <br>
 
 Using Bootstrap, W3Schools and a bit of ChatGPT to help teach techniques a few issues for teh development quickly arose.
