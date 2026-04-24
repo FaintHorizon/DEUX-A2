@@ -91,8 +91,9 @@ Other Tools used include:
 - Visual Studio for coding
 - Github for version control and syncing
 - Github Pages for deployment
-
-- With no backend a few things where off the table for development like;
+<br>
+<br>
+With no backend a few things where off the table for development like;
     - Due to no backend continue watching was of the table
     - Without the backend and a extensive media collection things like recomended films/tvshows would be near imposible to do
 - A key limitation was the implementation of subtitles within the media player. I investigated potential approaches, including the YouTube Player API, however I decided against this option as it would introduce dependency on an external service and reduce control over playback functionality. As a result, subtitles were not implemented in the final build. In a full-scale development environment, this feature would be supported through a dedicated backend subtitle database integrated with a custom media player, enabling more advanced accessibility and customisation options.
