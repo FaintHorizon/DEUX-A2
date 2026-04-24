@@ -1,4 +1,9 @@
 # DEUX-A2
+## Project Overview
+The goal of this project is to create the front end of a streaming service bassed on annalaysis from the previous assignment.
+
+We compared both Amazon prime video and Netflix and found areas they where lacking in accessibility, and attempted to build a more accessible version for our userbase.
+
 # Table of Contents
 [Design](#design)</br>
 ----[Aims and Objectives](#aims-and-objectives)</br>
@@ -74,10 +79,11 @@ Are all high contrast and stand out nicely.
 
 ## Development Reflection And Design Challenges
 
-Pages Deployment: https://fainthorizon.github.io/DEUX-A2/<br>
+### Pages Deployment: https://fainthorizon.github.io/DEUX-A2/<br>
 <br>
 
-Using Bootstrap, W3Schools and a bit of ChatGPT to help teach techniques a few issues for teh development quickly arose.
+Using Bootstrap, W3Schools and a bit of ChatGPT to help teach techniques a few issues for the development quickly arose.
+
 Other Tools used include:
 - Affinity Photo for Wireframes and images
 - Davinchi Resolve for video editing
@@ -161,6 +167,8 @@ User Profile Picutres courtesy of (OpenAI, 2025)<br>
 
 <br>
 
+Information for dyslexia frinedlenss and accesbility options from [(Lys Forstner, 2023)(W3C, 2025)(Falkowski-Gilski and Uhl, 2020)]
+
 # Framework
 
 A few things are a constant between all frameworks. One the text is high contrast, two while not present on the form it will be present on the actual site and the other frameworks is all fonts are derived from the Sans family and monoblocked for dyslexia friendliness. (Lys Forstner, 2023) This article covers how to desigin news sites to be dyslexia friendly. Along with (W3C, 2025) these are gonna be My main sources for accessiblity and readability.
@@ -199,7 +207,10 @@ As an example for what the lightmode could look light
 of course black text on white will have the same contrast as white on black of 21:1 but the bright red on white has a contrast of 5.88:1 Which still aligns with AA rating but loses its tripple for normal sized text.
 <img src=".\Images\RedOnWhite.png" alt="Contrast 3" >
 
+Contrast checker (WebAIM, 2025)
+
 # References
+Falkowski-Gilski, P. and Uhl, T. (2020). Current trends in consumption of multimedia content using online streaming platforms: A user-centric survey. [online] Science Direct. Available at: https://www.sciencedirect.com/science/article/abs/pii/S1574013719302473?via%3Dihub [Accessed 30 Jan. 2026].</br>Lys Forstner, S. (2023). Designing a Dyslexia-Friendly Interaction with News Articles. [online] Sikt.no. Available at: https://nva.sikt.no/registration/0198f2238335-0613e77c-285b-4fa1-bf80-18cee64fa1ca [Accessed 23 Jan. 2026].</br>OpenAI (2025). ChatGPT. [online] ChatGPT. Available at: https://chatgpt.com/ [Accessed 6 Mar. 2026].W3C (2025). </br>Web Content Accessibility Guidelines (WCAG) 2.1. [online] W3.org. Available at: https://www.w3.org/TR/WCAG21/ [Accessed 23 Jan. 2026].</br>W3Schools (2025). W3Schools online web tutorials. [online] W3schools.com. Available at: https://www.w3schools.com/ [Accessed 24 Apr. 2026].WebAIM (2025).</br>WebAIM: Contrast Checker. [online] Webaim. Available at: https://webaim.org/resources/contrastchecker/ [Accessed 15 Mar. 2026].
 
 # Credits
 Frameworks made with Affinity Photo and Designer
