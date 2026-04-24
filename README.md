@@ -213,5 +213,13 @@ Contrast checker (WebAIM, 2025)
 Falkowski-Gilski, P. and Uhl, T. (2020). Current trends in consumption of multimedia content using online streaming platforms: A user-centric survey. [online] Science Direct. Available at: https://www.sciencedirect.com/science/article/abs/pii/S1574013719302473?via%3Dihub [Accessed 30 Jan. 2026].</br>Lys Forstner, S. (2023). Designing a Dyslexia-Friendly Interaction with News Articles. [online] Sikt.no. Available at: https://nva.sikt.no/registration/0198f2238335-0613e77c-285b-4fa1-bf80-18cee64fa1ca [Accessed 23 Jan. 2026].</br>OpenAI (2025). ChatGPT. [online] ChatGPT. Available at: https://chatgpt.com/ [Accessed 6 Mar. 2026].W3C (2025). </br>Web Content Accessibility Guidelines (WCAG) 2.1. [online] W3.org. Available at: https://www.w3.org/TR/WCAG21/ [Accessed 23 Jan. 2026].</br>W3Schools (2025). W3Schools online web tutorials. [online] W3schools.com. Available at: https://www.w3schools.com/ [Accessed 24 Apr. 2026].WebAIM (2025).</br>WebAIM: Contrast Checker. [online] Webaim. Available at: https://webaim.org/resources/contrastchecker/ [Accessed 15 Mar. 2026].
 
 # Credits
-Frameworks made with Affinity Photo and Designer
-Alot of code w3Schools for bootstrap, HTML, CSS support
+Other Tools used include:
+- Affinity Photo for Wireframes and images
+- Davinchi Resolve for video editing
+- Bambu Studio for the 3d print timelapes
+- Visual Studio for coding
+- Github for version control and syncing
+- Github Pages for deployment
+- Bootstrap
+- W3Schools
+- ChatGPT for image gen and trouble shooting
